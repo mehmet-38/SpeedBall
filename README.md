@@ -1,2 +1,2 @@
 # SpeedBallGame
-Unity ile yapmış olduğum speedball oyunu
+Unity ile geliştirmekte olduğum speedball game.
